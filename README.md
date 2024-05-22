@@ -1,0 +1,1 @@
+The SuperviZ Remote Controlled Powerstrip Python package.
